@@ -1,0 +1,19 @@
+div {
+	
+	display: flex;
+	padding: 200px;
+
+}
+
+#orange{
+	background-color: orange;
+}
+#pink{
+	background-color:pink; 
+}
+#bage{
+	background-color: #f9e4b7;
+}
+#green{
+ background-color: green;
+}

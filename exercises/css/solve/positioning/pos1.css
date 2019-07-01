@@ -1,0 +1,12 @@
+
+
+ol li{
+  list-style-type: none;
+	border-style: solid;
+	display: inline;
+	font-size: 3em; 
+	background-color: blue;
+}
+.w {
+	display: none
+}

@@ -1,0 +1,13 @@
+body{
+	background-color:#f0f8ff;
+}
+div{
+	width: 75%;
+	min-width: 500px;
+	border: 1px solid  #333333;
+	border-spacing: 10px;
+	line-height: 1em;
+
+
+
+}
